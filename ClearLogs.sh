@@ -4,6 +4,7 @@
 
 rm /var/log/auth.log.*.gz
 rm /var/log/daemon.log.*.gz
+rm /var/log/dpkg.log.*.gz
 rm /var/log/debug.*.gz
 rm /var/log/kern.log.*.gz
 rm /var/log/messages.*.gz
